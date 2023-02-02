@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SiestaSan
 - 👀 I’m interested in creating games
-- 🌱 I’m currently learning HTML
+- 🌱 I’m currently learning HTML and C++
 - 💞️ I’m looking to collaborate on game dev
 - 📫 How to reach me: discord - Siesta-San#0693
 
